@@ -1,0 +1,18 @@
+﻿Build started 7/30/2017 6:50:30 PM.
+     1>Project "C:\Users\Niv\Downloads\Shenkar-master\FinalProject\FinalProject.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\niv\downloads\shenkar-master\finalproject\button.h(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\textbox.h(26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\label.h(23): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\combobox.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\abstractbox.h(23): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\radiobox.h(28): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\checklist.h(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\niv\downloads\shenkar-master\finalproject\checklist.h(33): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>Done Building Project "C:\Users\Niv\Downloads\Shenkar-master\FinalProject\FinalProject.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.74
